@@ -1,4 +1,7 @@
 # Sales-Performance-Dashboard- Excel, MySQL & Power BI
+![Sales Overview Page 1](https://github.com/user-attachments/assets/faa25793-4474-47c3-8cd8-ed0366c3e3d5)
+![Sales Overview Page 2](https://github.com/user-attachments/assets/49a03ed7-7e58-4b2b-8608-4ced70eaf4b7)
+
 This project demonstrates building a fully interactive Business Intelligence dashboard using Microsoft Power BI Desktop. It covers the complete BI workflow, including connecting to data sources, shaping and transforming data, building relational data models, performing analysis using DAX (Data Analysis Expressions), and designing professional-quality visual dashboards.
 
 The goal of this project is to provide hands-on experience in building a business intelligence solution from raw data to a polished dashboard. It is designed for aspiring Data Analysts, Business Intelligence Developers, and anyone interested in data-driven storytelling and reporting.
